@@ -187,7 +187,12 @@ footer {
 
 .judul-socmed h1 {
   color: rgba(241, 147, 85, 1);
-  text-align: center;
+  text-align: left;
+}
+
+.judul-socmed-2 h1 {
+  color: rgba(241, 147, 85, 1);
+  text-align: right;
 }
 
 .contact {
